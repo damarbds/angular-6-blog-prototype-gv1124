@@ -1,0 +1,15 @@
+{
+  "title": "Post #1",
+  "slug": "post-1",
+  "intro": "some very important lorem ipsum text",
+  "sections": [
+    {
+      "title": "section 1",
+      "description": "<p>asdf</p> lorem ipsum lorem ipsum lorem ipsum"
+    },
+    {
+      "title": "section 2",
+      "description": "<p>asdf</p> lorem ipsum lorem ipsum lorem ipsum"
+    }
+  ]
+}

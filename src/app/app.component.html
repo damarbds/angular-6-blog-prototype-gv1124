@@ -1,0 +1,23 @@
+<div class="h-100 bg-light">
+	<nav class="navbar fixed-top navbar-dark bg-primary">
+		<a class="navbar-brand" [routerLink]="'/'">NGX Blog</a>
+	</nav>
+
+	<div class="d-flex flex-column h-100">
+
+		<div class="container-fluid  mt-3">
+			<router-outlet></router-outlet>
+		</div>
+
+		<footer class="bg-dark text-light mt-auto p-2">
+			<div class="d-flex">
+				<div>©2018 Ardian Shala</div>
+				<div class="ml-auto">
+					<a routerLink="impressum">Impressum</a>
+					&nbsp;
+					<a routerLink="/datenschutz">Datenschutz</a>
+				</div>
+			</div>
+		</footer>
+	</div>
+</div>

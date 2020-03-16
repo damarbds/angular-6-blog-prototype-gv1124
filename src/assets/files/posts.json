@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Post #1",
+    "slug": "post-1",
+    "intro": "some very important lorem ipsum text",
+    "description": "lorem ipsum lorem ipsum lorem ipsum"
+  },
+  {
+    "title": "Post #2",
+    "slug": "post-2",
+    "intro": "more very important lorem ipsum text",
+    "description": "lorem ipsum"
+  },
+  {
+    "title": "Post #3",
+    "slug": "post-3",
+    "intro": "more very important lorem ipsum text",
+    "description": "lorem ipsum"
+  },
+  {
+    "title": "Post #4",
+    "slug": "post-4",
+    "intro": "more very important lorem ipsum text",
+    "description": "lorem ipsum"
+  },
+  {
+    "title": "Post #5",
+    "slug": "post-5",
+    "intro": "more very important lorem ipsum text",
+    "description": "lorem ipsum"
+  }
+]
